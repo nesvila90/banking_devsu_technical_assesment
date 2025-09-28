@@ -197,3 +197,4 @@ target
 README.html
 .exercism
 /build-cache/
+/build-cache/**
