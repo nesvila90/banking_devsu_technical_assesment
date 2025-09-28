@@ -175,6 +175,8 @@ build/
 .gradle/**
 **/.gradle/
 **/.gradle/**
+**/.gradle-cache/**
+**/.gradle-cache/
 
 ### VS Code ###
 .vscode/
