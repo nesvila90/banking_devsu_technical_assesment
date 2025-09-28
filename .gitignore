@@ -30,3 +30,4 @@
 
 # Ignore custom settings for run/debug configurations
 .idea/runConfigurations/
+/person-customer/build-cache/

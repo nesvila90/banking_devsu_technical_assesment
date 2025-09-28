@@ -196,3 +196,4 @@ target
 .gradle
 README.html
 .exercism
+/build-cache/
