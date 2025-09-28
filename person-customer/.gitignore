@@ -27,7 +27,10 @@
 .idea/**/target/
 .idea/**/out/
 .idea/**/build/
-.idea/**/build-cache/
+.idea/**/build-cache/*
+
+*.class
+
 
 # Ignore custom settings for run/debug configurations
 .idea/runConfigurations/
