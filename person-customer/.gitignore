@@ -29,7 +29,7 @@
 .idea/**/build/
 .idea/**/build-cache/*
 
-.gradle/*
+.gradle/**
 *.class
 
 
